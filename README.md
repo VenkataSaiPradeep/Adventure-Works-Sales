@@ -1,8 +1,8 @@
-# 📊 AdventureWorks Sales Dashboard
+<img width="972" alt="dashboard-preview" src="https://github.com/user-attachments/assets/71bca780-b856-4ce6-8321-3c83ceb1190d"># 📊 AdventureWorks Sales Dashboard
 
 Welcome to the **AdventureWorks Sales Dashboard** project! This repository contains a Power BI dashboard that visualizes sales data from the AdventureWorks dataset. The dashboard provides insightful metrics and trends to help understand sales performance, product distribution, and customer behavior.
 
-![Dashboard Preview](https://docs.google.com/presentation/d/17x4d_nA-eJnt7h2ZAdtxXKzEDNJAWF2J/edit#slide=id.p1)
+![Dashboard Preview](https://github.com/VenkataSaiPradeep/Adventure-Works-Sales/blob/main/Images/dashboard-preview.png)
 
 ## 🚀 Project Overview
 
