@@ -22,8 +22,8 @@ This project is designed to showcase the power of interactive data visualization
 
 ## 📂 Project Structure
 
-├── AdventureWorks_Sales.pbix    # Power BI Template file
-├── AdventureWorks_Sales.pbix
-├── README.md                 # Project documentation
-└── Images/
+├── AdventureWorks_Sales.pbix    # Power BI Template file <br>
+├── AdventureWorks_Sales.pbix <br>
+├── README.md                 # Project documentation <br>
+└── Images/ <br>
     └── dashboard-preview.png # Screenshot of the dashboard
